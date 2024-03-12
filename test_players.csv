@@ -1,0 +1,4 @@
+id,nickname,level,health_points,status,infight
+0,zero
+1,exp_tester,100,100,bot,NOT
+523495620,the_real_guy,100,100,player,NOT
